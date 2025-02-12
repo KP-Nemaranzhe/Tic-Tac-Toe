@@ -32,5 +32,5 @@ This is a simple Tic-Tac-Toe game made with Java. Players can play against each 
 - Add sound effects
 
 ## 📬 Contact Me
-📧 Email: pronemaranzhe@gmail.com
-💼 LinkedIn: https://www.linkedin.com/in/progress-nemaranzhe/
+- 📧 Email: pronemaranzhe@gmail.com
+- 💼 LinkedIn: https://www.linkedin.com/in/progress-nemaranzhe/
