@@ -4,7 +4,6 @@ This is a simple Tic-Tac-Toe game made with Java. Players can play against each 
 
 ## 🛠 Features
 ✅ Play against another player  
-✅ Play against the computer  
 ✅ Simple and easy-to-use design  
 ✅ Prevents invalid moves  
 
