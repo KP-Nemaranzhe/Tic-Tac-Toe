@@ -10,7 +10,7 @@ This is a simple Tic-Tac-Toe game made with Java. Players can play against each 
 
 ## 🚀 Technologies Used
 - Java (Game logic)  
-- Java Swing (If using a graphical interface)  
+- Java Swing (GUI)  
 
 ## 📸 Game Preview
 ![Game Screenshot](preview_snap.png)
