@@ -13,7 +13,7 @@ This is a simple Tic-Tac-Toe game made with Java. Players can play against each 
 - Java Swing (If using a graphical interface)  
 
 ## 📸 Game Preview
-(Add a screenshot or GIF here)
+![Game Screenshot](preview_snap.png)
 
 ## 🔧 How to Run
 1. Clone this repository:  
