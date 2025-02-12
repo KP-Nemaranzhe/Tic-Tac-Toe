@@ -18,3 +18,19 @@ This is a simple Tic-Tac-Toe game made with Java. Players can play against each 
 1. Clone this repository:  
    ```sh
    git clone https://github.com/your-username/tic-tac-toe-java.git
+2. Go to the project folder and compile the code:
+   ```sh
+   javac TicTacToe.java
+3. Run the game:
+   ```sh
+   java TicTacToe
+
+## 📌 Future Improvements
+
+- Add different difficulty levels for the computer
+- Improve the design with better graphics
+- Add sound effects
+
+## 📬 Contact Me
+📧 Email: pronemaranzhe@gmail.com
+💼 LinkedIn: https://www.linkedin.com/in/progress-nemaranzhe/
