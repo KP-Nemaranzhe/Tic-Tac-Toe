@@ -1,6 +1,6 @@
 # 🎮 Tic-Tac-Toe in Java
 
-This is a simple Tic-Tac-Toe game made with Java. Players can play against each other or the computer.
+This is a simple Tic-Tac-Toe game made with Java. Players can play against each other on a single computer and get results.
 
 ## 🛠 Features
 ✅ Play against another player  
