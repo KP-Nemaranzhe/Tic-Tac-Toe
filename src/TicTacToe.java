@@ -161,7 +161,6 @@ public class TicTacToe{
                     setTie(board[r][c]);
                 }
                 gameOver = true;
-                return;
             }
         }
     }
